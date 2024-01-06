@@ -6,7 +6,7 @@ na pasta "massa de dados" há o arquivo geradorDeMassa. Nesse arquivo é possív
 
 deixei a seed fixa para melhor consistência dos dados.
 
-o tempo é medido em milesegundos no programa
+o tempo é medido em milesegundos no programa, e foi convertido em segundos nas planinhas.
 
 resultado quando os numeros na massa de dados variavam de 0 a 10,000 (dez mil)
 ![image](https://github.com/FabioMoraiss/algoritimos_ordenacao/assets/104800091/4aa7453d-0812-4c00-b729-29d7bf168f61)
