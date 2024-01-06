@@ -13,3 +13,5 @@ resultado quando os numeros na massa de dados variavam de 0 a 10,000 (dez mil)
 
 resultado quando os números na massa de dados variam de 0 a 2,147,483,647 (Integer.MAX_VALUE)
 ![image](https://github.com/FabioMoraiss/algoritimos_ordenacao/assets/104800091/f8638aa1-c427-42bb-9e42-be84b592b688)
+
+as planinhas estão na pasta de resultados
